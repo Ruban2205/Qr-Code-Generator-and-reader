@@ -1,0 +1,11 @@
+QR CODE GENERATOR 
+
+An Open source Software Developed and LICENCED by Ruban Gino Singh.
+
+Source Code available in https://github.com/Ruban2205
+
+For more details
+Visit: www.rubangino.in
+Mail: info@rubangino.in
+
+Have Fun! :)

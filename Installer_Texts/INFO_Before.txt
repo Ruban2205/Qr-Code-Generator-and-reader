@@ -1,0 +1,4 @@
+Install the setup file.
+After the setup completed go into the location where the installed files are stored.
+Get into the installation files Right click -> QR_code_generator_and_reader.exe create a shortcut
+in the desktop and use the application.
