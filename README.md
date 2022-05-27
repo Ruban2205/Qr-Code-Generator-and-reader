@@ -12,7 +12,7 @@ Get into the installation files Right click -> QR_code_generator_and_reader.exe 
 
 You can download the source code from the github page: [Ruban2205](https://github.com/Ruban2205/Python-Projects/tree/main/Qr-Code-Generator-and-reader)
 
-Application Download Link 👉: [QR_Generator_Reader](https://github.com/Ruban2205/Python-Projects/raw/main/Qr-Code-Generator-and-reader/Installer/QR_Generator_Reader_Dev_rubangino.in.zip)
+Application Download Link 👉: [QR_Generator_Reader](https://github.com/Ruban2205/Qr-Code-Generator-and-reader/raw/main/Installer/QR_Generator_Reader_Dev_by_Rubanginosingh.zip)
 
 ## License 
 QR_Code_Generator_and_Reader is released under the MIT License. See LICENCE for details. 
