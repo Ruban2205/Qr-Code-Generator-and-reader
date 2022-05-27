@@ -15,7 +15,7 @@ You can download the source code from the github page: [Ruban2205](https://githu
 Application Download Link 👉: [QR_Generator_Reader](https://github.com/Ruban2205/Qr-Code-Generator-and-reader/raw/main/Installer/QR_Generator_Reader_Dev_by_Rubanginosingh.zip)
 
 ## License 
-QR_Code_Generator_and_Reader is released under the MIT License. See [LICENCE](/LICENCE) for details. 
+QR_Code_Generator_and_Reader is released under the MIT License. See [LICENCE](https://github.com/Ruban2205/Qr-Code-Generator-and-reader/blob/main/LICENSE) for details. 
 
 ## Contact 
 
