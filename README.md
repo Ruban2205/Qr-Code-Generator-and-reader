@@ -1,11 +1,18 @@
-# QR Code Generator and Reader
+# 💡 QR Code Generator and Reader
+
+This repository contains a QR Code generator and reader application. The applicaion allows users to generate QR codes from text or URLs and also provides functionality to scan and decode QR codes using a image file. 
 
 QR Code Generator and Reader is a desktop application developed by [Ruban Gino Singh](https://rubangino.in/) to Generate and Read QR Code easily by one click. It has a simple User Interface to provide simple User Experience throught out the application. Once a user created a Qr Code with this application, then the user can able to save it in their local system. It will allow the user to read any type of QR Codes from third party generators. 
 
+## 🚀 Features 
+
+- Generate QR codes from text, or URLs
+- Scan and decode QR codes using an image file
+- Simple and intuitive user interface 
 
 ## Installation 🔧
 
-I Provide 4 setp Installation for this application. 
+I Provide 4 step Installation for this application. 
 
 - Download the Zip file 👉: [QR_Generator_Reader](https://github.com/Ruban2205/Qr-Code-Generator-and-reader/raw/main/Installer/QR_Generator_Reader_Dev_by_Rubanginosingh.zip)
 - Extract the downloaded Zip file. 
@@ -13,7 +20,7 @@ I Provide 4 setp Installation for this application.
 - Here you go... You can find the QR_Generator_Reader Application Installed in your local System. 
 
 
-## How to use this project 👬
+## 👬 How to use this project 
 
 Any one can download and use the source code from this github page. Usage of this software needs to be attribute the Original developer and Author of this Application. 
 
