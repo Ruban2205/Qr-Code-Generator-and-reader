@@ -61,6 +61,10 @@ When contributing, please ensure that your code follows the existing coding styl
 ## 📄 License 
 QR_Code_Generator_and_Reader is released under the MIT License. See [LICENCE](https://github.com/Ruban2205/Qr-Code-Generator-and-reader/blob/main/LICENSE) for more details. 
 
+## 👏 Acknowledgments
+
+I  would like to express our gratitude to the developers and contributors of the following third-party libraries that were utilized in this project: [Pillow](https://pypi.org/project/Pillow/), [qrcode](https://pypi.org/project/qrcode/), [opencv-python](https://pypi.org/project/opencv-python/). Their work has greatly contributed to the functionality and success of this application.
+
 ## Contact 📱
 
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rubangino.in/)
