@@ -59,7 +59,7 @@ Contributions to this repository are welcome. If you find any issues or have sug
 When contributing, please ensure that your code follows the existing coding style and conventions. Also, make sure to update the documentation and tests as appropriate. 
 
 ## 📄 License 
-QR_Code_Generator_and_Reader is released under the MIT License. See [LICENCE](https://github.com/Ruban2205/Qr-Code-Generator-and-reader/blob/main/LICENSE) for more details. 
+QR_Code_Generator_and_Reader is released under the MIT License. See [LICENSE](https://github.com/Ruban2205/Qr-Code-Generator-and-reader/blob/main/LICENSE) for more details. 
 
 ## 👏 Acknowledgments
 
